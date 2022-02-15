@@ -1,0 +1,6 @@
+# program to arthmetic operators in hackerrank (python)
+a = int(input())
+b = int(input())
+print(a+b)
+print(a-b)
+print(a*b)
